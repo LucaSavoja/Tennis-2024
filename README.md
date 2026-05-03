@@ -17,6 +17,6 @@ All statistical analyses were performed in R, and the final document was produce
 
 ### Dataset
 The dataset used in this project was obtained from
-https://github.com/JeffSackmann/tennis_atp/blob/master/atp_matches_2024.csv by @Jeff Sackmann.
+https://github.com/JeffSackmann/tennis_atp/blob/master/atp_matches_2024.csv by Jeff Sackmann.
 
 All analysis and visualizations were developed independently.
