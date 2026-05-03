@@ -1,5 +1,3 @@
-#######Tesina Inferenza (Prima Parte)
-
 ## Introduzione dataset 
 
 ##Importo il Dataset
